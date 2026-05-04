@@ -1,0 +1,1 @@
+# Classificacao_de_Perfis_de_Turistas-Uma_Analise_Comparativa_com_k-NN_e_Random_Forest
